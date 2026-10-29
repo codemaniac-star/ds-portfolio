@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Predictive ML Portifolio
 
 Newton Nyoro | BSc Software Development, KCA University
 
